@@ -1,2 +1,25 @@
-# user-info-with-react-next
-Get a user information with React.js &amp; Next.js (via server side)
+# Fetch User with React.js - Next.js
+
+This is the second delivery of `Fetch a User Info` series of work. It's done with the use of various libraries and/or framework.
+
+These projects are a know-how to understand the basics of how to make an AJAX call, and display the response in a lightweight and customizable responsive structure.
+
+Here you will get a user information with React.js and Next.js framework for server side to make the AJAX API call.
+
+This will also give you the _time taken_ to fetch user details of a user.
+
+## Steps to run this project
+
+Clone or download this repo to your local.
+
+Under the path of `user-info-with-react-next`, run the following:
+
+```html
+npm install npm run dev
+```
+
+The application runs on port 3000.
+
+## License
+
+This project is licensed under the MIT License.
